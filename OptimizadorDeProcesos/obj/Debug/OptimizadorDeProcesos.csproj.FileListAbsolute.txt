@@ -1,0 +1,57 @@
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe.config
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csprojResolveAssemblyReference.cache
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Form1.resources
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Properties.Resources.resources
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csproj.GenerateResource.Cache
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.exe
+C:\Users\Jose Ivan\Documents\Facultad\4to semestre\Estructura de datos\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.pdb
+G:\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe.config
+G:\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.exe
+G:\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.pdb
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe.config
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.exe
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.pdb
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.pdb
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csprojResolveAssemblyReference.cache
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Form1.resources
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Properties.Resources.resources
+C:\Users\HectorM\Desktop\Tarea visual\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe.config
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Form1.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Properties.Resources.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\CHECAR\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\bin\Debug\OptimizadorDeProcesos.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\OptimizadorDeProcesos\OptimizadorDeProcesos\obj\Debug\OptimizadorDeProcesos.csproj.GenerateResource.Cache
